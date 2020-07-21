@@ -1,0 +1,1 @@
+## Este es un ejemplo del uso de hbs, partials, helpers como ayuda de las páginas web.
